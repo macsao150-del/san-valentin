@@ -2,13 +2,13 @@ const messages = [
     "¿Seguro?",
     "¿Seguro, seguro??",
     "Muy, muy seguro???",
-    "Andale, mi corazoooooón...",
+    "Andale, preciosooo...",
     "Piensalo!",
     "Si dices que no, me voy a poner muy triste...",
     "Voy a estar muy triste...",
     "Muy, muy, muy, muuuuy triste...",
     "Esta bien, ya voy a dejar de insistir...",
-    "Mentiraaa, di que si, precioso! ❤️"
+    "Mentiraaa, di que si, por favor! ❤️"
 ];
 
 let messageIndex = 0;
